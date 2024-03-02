@@ -1,0 +1,34 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient( tomato,rgb(226, 112, 131), rgb(202, 171, 243), rgb(165, 165, 250));
+    background-repeat: no-repeat;
+
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    font-size: 25px;
+    padding: 20px;
+    border-radius: 10px;
+}
+h2{
+    text-align: center;
+    color: white;
+}
+h1 img{
+    width: 25px;
+    height: 25px;
+}
+.jhg{
+    display: flex;
+    justify-content: center;
+}
+.jhg img{
+    width: 600px;
+}
